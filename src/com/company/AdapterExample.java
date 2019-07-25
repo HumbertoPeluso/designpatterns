@@ -1,6 +1,6 @@
 package com.company;
 
-import com.company.adapter.*;
+import com.company.structure.adapter.*;
 
 public class AdapterExample {
     public static void main(String[]args){

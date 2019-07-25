@@ -1,4 +1,4 @@
-package com.company.adapter;
+package com.company.structure.adapter;
 
 public class OnePlus5 implements AndroidPhone {
 
